@@ -41,4 +41,4 @@ This project goes beyond a simple rule-based chatbot. It acts as a digital sales
 
 **Sheikh Mainul Islam** *AI & Automation Consultant* I specialize in building intelligent automation systems that streamline business workflows. Currently pursuing my BSc in Computer Science and Engineering (CSE) at the University of Asia Pacific (UAP), I am passionate about bridging the gap between complex AI logic and practical, revenue-generating business applications.
 
-🔗 **GitHub:** [@SheiikhMainul](https://github.com/SheiikhMainul)
+🔗 **GitHub:** [@Sheikh-Mainul-Islam](https://github.com/Sheikh-Mainul-Islam)
